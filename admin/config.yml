@@ -1,0 +1,4 @@
+backend:
+  name: github
+  repo: phildaponte/teaser # Path to your Github repository
+  branch: master # Branch to update
